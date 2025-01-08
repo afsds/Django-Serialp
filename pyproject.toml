@@ -1,5 +1,9 @@
 [tool.poetry]
-name = "django-Serialp"
+
+name = "Django-Serialp"
+=======
+name = "django-Serialr"
+
 version = "0.1.0"
 description = ""
 authors = ""
